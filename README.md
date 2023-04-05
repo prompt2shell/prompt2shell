@@ -79,5 +79,5 @@ $ sudo kexec -l /boot/vmlinuz-6.3.0-rc4+ --initrd=/boot/initrd.img-6.3.0-rc4+ --
 
 ```
 [prompt2shell]> show kernel version
-uname -r
+$ uname -r
 ```
