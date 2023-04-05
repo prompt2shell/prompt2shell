@@ -70,7 +70,7 @@ async fn go(
                     }
                 }
             } else {
-                println!("Invalid input. Please enter 'y', 'n', or 'modify'.");
+                println!("Invalid input. Please enter 'y', 'n', or 'e'.");
             }
         }
     }
