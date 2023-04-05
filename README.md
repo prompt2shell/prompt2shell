@@ -18,15 +18,18 @@ Use this program at your own risk. The developers are not responsible for any da
 
 ## Usage
 
-Run the program using the command `cargo run`. You will see a `[prompt2shell]>` prompt where you can type your instructions. The program will send these instructions to the OpenAI API and generate a Linux command that you will be able to modify and/or execute on your machine.
+Run the program using the command `cargo run` or `./prompt2shell`. You will see a `[prompt2shell]>` prompt where you can type your instructions. The program will send these instructions to the OpenAI API and generate a Linux command that you will be able to modify and/or execute on your machine.
 
 ## User Interaction
 
 When the AI-generated command is displayed, you have the following options:
 
 Type 'y' or 'yes' to execute the command.
+
 Type 'n' or 'no' to reject the command.
+
 Type 'e' or 'edit' to modify the command before executing it.
+
 To exit the program, simply type quit.
 
 ## Examples
