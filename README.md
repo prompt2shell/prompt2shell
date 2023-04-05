@@ -1,12 +1,12 @@
 # Prompt2Shell
 
+Prompt2Shell is an intreractive Rust program that request the OpenAI API to generate Linux commands based on user-given instructions.
+
 ## Warning
 
 This program can directly executes commands obtained from the OpenAI API on your machine. Be cautious when using this program, as some commands might potentially harm your system or compromise its security.
 
 Use this program at your own risk. The developers are not responsible for any damage caused by using this program.
-
-Prompt2Shell is an intreractive Rust program that request the OpenAI API to generate Linux commands based on user-given instructions.
 
 ## Setup
 
