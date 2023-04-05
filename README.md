@@ -24,13 +24,13 @@ Run the program using the command `cargo run` or `./prompt2shell`. You will see 
 
 When the AI-generated command is displayed, you have the following options:
 
-Type 'y' or 'yes' to execute the command.
+Type 'y' to execute the command.
 
-Type 'n' or 'no' to reject the command.
+Type 'n' to reject the command.
 
-Type 'e' or 'edit' to modify the command before executing it.
+Type 'e' to edit the command.
 
-To exit the program, simply type quit.
+To exit the program, simply type 'quit'.
 
 ## Examples
 ```
